@@ -1,2 +1,2 @@
-a = input("Enter your name:")
+a = input("Enter your age:")
 print(a)
